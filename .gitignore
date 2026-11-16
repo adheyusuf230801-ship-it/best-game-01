@@ -1,0 +1,6 @@
+out/
+out2/
+session.json
+prompt.txt
+system-prompt.txt
+transcripts.tar.gz
